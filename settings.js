@@ -3,19 +3,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349066528353"
-global.ownername = "⚡D A V I D⚡"
-global.ytname = "YT: Hacktivist Hive"
-global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Nigeria"
+global.ownernomer = "916009259402"
+global.ownername = "⚡Kiyo⚡"
+global.ytname = "YT: __Kiyo Aint Simp__"
+global.socialm = "GitHub: Kiyokunbotv2"
+global.location = "Mizoram"
 
-global.ownernumber = '2349066528353'  //creator number
-global.ownername = '⚡D A V I D⚡' //owner name
-global.botname = 'Thomas Shelby ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '916009259402'  //creator number
+global.ownername = '⚡kiyo⚡' //owner name
+global.botname = 'Kiyo-Bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David Cyril\n\nContact: +2349066528353'
+global.packname = 'Sticker By Kiyo-Bot'
+global.author = 'Kiyo\n\nContact: +91600259402'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -23,7 +23,7 @@ global.wm = "Github DeeCeeXxx."
 global.wm = "Github DeeCeeXxx."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
+global.link = 'https://chat.whatsapp.com/GKVGknNhA8QCIZ1kqgbPs2'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
